@@ -62,7 +62,7 @@ A modern, enterprise-grade document search application built with **Spring Boot*
 - **Maven 3.8+**
 
 ### **1. Clone Repository**
-- **git clone https://github.com/ishand3thrx/fullstack-document-search.git**
+- **git clone https://github.com/ishand3thrx/document-search.git**
 - **cd fullstack-document-search**
 
 
